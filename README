@@ -1,0 +1,8 @@
+Kohonen Map (self-organizing map)
+
+This is a toy project of mine in attempt to learn more about pattern recognition.
+
+For more info on self-organizing maps see:
+    http://en.wikipedia.org/wiki/Self-organizing_map
+For more info on the Kohonen algorithm, see:
+    http://www.ai-junkie.com/ann/som/som1.html
